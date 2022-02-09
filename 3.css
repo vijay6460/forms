@@ -1,0 +1,142 @@
+body{
+	background-color: rgba(49, 243, 80, 0.5);
+	background-image: no-repeat;
+	color: black;
+	text-align: right;
+	padding: 100px;
+	margin: 10px;
+
+}
+.ab{
+	padding: 20px;
+	background-color: black;
+	text-align: right;
+	border-top-left-radius:80px;
+}
+
+label{
+	padding: 0;
+	margin: 0;
+	text-align: left;
+	color: white;
+	font-size: 20px;
+
+}
+
+#west{
+
+}
+input{
+	font-size: 20px;
+
+
+	margin-right: 10px;
+	
+
+}
+
+
+#west{
+	display: flex;
+}
+#one{
+	text-align:left;
+	margin-left: 120px;
+
+
+
+}
+
+#oneo{
+	text-align: center;
+
+	margin-bottom: 50px;
+}
+#two{
+	text-align: right;
+
+/*	margin-right: 10px;*/
+}
+
+#three{
+	text-align: right;
+	/*margin-left: 23px;*/
+}
+#four{
+	text-align:right;
+	/*margin-left: 30px;*/
+	
+
+}
+#five{
+	text-align:right;
+	/*margin-left: 2px;*/
+	
+
+}
+h1{
+	text-align: center;
+	font-size: 18px;
+}
+
+#sample{
+	border: 1px solid white;
+	margin-right: 45px;
+	border-radius: 40px;
+	background-color: #125495;
+	display: inline-block;
+	width: 80%;
+	height: 10%;
+	color: white;
+}
+
+
+#fi{
+
+	margin-left: 80%;
+	/*padding: 5px;*/
+	display: flex;
+	text-align: right;
+
+	
+
+}
+p{
+	text-align: right;
+
+}
+
+
+	#ten{
+		text-align: right;
+	margin-left: 23px;
+	}
+	#eleven{text-align:right;
+	margin-left: 20px;
+	color:red;
+	
+
+	}
+button{
+	background-color:#876543;
+	text-align: right;
+	font-size: 20px;
+
+}
+
+#fun{
+	text-align: right;
+
+}
+
+#seven{
+	text-align: right;
+
+}
+#eight{
+	text-align: right;
+}
+#nine{
+	text-align: right;
+
+}
